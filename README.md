@@ -2,26 +2,6 @@
 
 Me chamo Juan e eu gosto de resolver problemas. 👋
 
-Aqui no meu GitHub você vai encontrar projetos pessoais que tenho interesse e demonstrações de trabalhos passados sobre os seguintes tópicos:
-
-* 🐧💖 **Linux**
-  * Bash
-
-* 🤖 **DevOps**
-  * CI/CD
-  * Kubernetes
-  * Containers
-
-* 👨‍💻 **Development**
-  * JavaScript
-  * PHP
-  * Python
-
-# 📚 Lendo atualmente
-  
-  * **Manual De DevOps**: Como obter agilidade, confiabilidade e segurança em organizações tecnológicas
-  * **O apanhador no campo de centeio**
-
 ---
 
 
